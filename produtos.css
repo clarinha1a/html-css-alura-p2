@@ -8,4 +8,8 @@ nav li {
 
 nav a {
     text-tranform:uppercase;
-
+    color: #0000000;
+    font-weight: bold;
+    font-size: 22px;
+   text-decoration: none;
+}
